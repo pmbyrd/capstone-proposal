@@ -24,23 +24,30 @@ This website is for fans and those who wish to learn more about the Star Trek Un
 
 ### Outlined approach
 
-**1. What does your database schema look like?**\n
+**1. What does your database schema look like?**
+
 The database will consist of the information from the STAPI for the webpage as well tables configured for the users inluding their details and participation on the site.  
 
-**2. What kinds of issues might you run into with your API?**\n
+**2. What kinds of issues might you run into with your API?**
+
 The OMDB and TVDB are live databases and it is difficult to vet for full accuracy in how they would be used to display information.
 
-**3. Is there any sensitive information you need to secure?**\n
+**3. Is there any sensitive information you need to secure?**
+
 User details, environment keys and API keys.
 
-**4. What functionality will your app include?**\n
+**4. What functionality will your app include?**
+
 Using the database to specifics about catagories ranging from characters to food. Make statistical data be presented in a fun and trivial way.
 
-**5. What will the user flow look like?**\n
+**5. What will the user flow look like?**
+
 An expansision of a OMDB of TVDB that includes more details.  The STAPI will help users learn more about details when clicking on a character, episode or movie.  Learning more about conlicts, space crafts, food and entities within the STAPI and seeing other places where they have appeared based off of their ids.
 
-**6. What features make your site more than CRUD?**\n
+**6. What features make your site more than CRUD?**
+
 User forums to make posts and engage with others to discuss Star Trek and learn more.
 
-**7. Do you have any stretch goals?**\n
+**7. Do you have any stretch goals?**
+
 A chat-gpt text based choose your own adventure role playing game based that would use elements the user picks from the website.
